@@ -30,3 +30,5 @@ yum remove postfix -y
 
 systemctl start vmtoolsd.service
 systemctl enable vmtoolsd.service
+
+# END OF START 
