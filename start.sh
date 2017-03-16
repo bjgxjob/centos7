@@ -32,3 +32,4 @@ systemctl start vmtoolsd.service
 systemctl enable vmtoolsd.service
 
 # END OF START 
+# Have a look General Folder 
